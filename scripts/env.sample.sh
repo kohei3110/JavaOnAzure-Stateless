@@ -1,0 +1,1 @@
+export spring_redis_password="<INSERT_YOUR_PASSWORD>"
